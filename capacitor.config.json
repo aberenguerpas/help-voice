@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "HelpVoice!",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
